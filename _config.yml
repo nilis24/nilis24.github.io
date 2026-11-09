@@ -1,0 +1,15 @@
+title: "Apunts d'informàtica"
+author: "Nil Isern"
+email: "nilisern@gmail.com"
+
+description: "Compartint el que aprenc, documentant el que descobreixo."
+
+theme: minima
+
+url: "https://nilis24.github.io"
+baseurl: ""
+
+header_pages:
+  - about.md
+
+show_excerpts: false
